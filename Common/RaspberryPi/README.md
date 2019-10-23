@@ -18,3 +18,8 @@ How to compile and run the server code<br>
 cd ./data/{TODAY_DATE}<br>
 cat {YOUR_ID}.txt  or vi {YOUR_ID}.txt<br>
 <br>
+
+How to compile and run the camera program
+<br>
+<br>
+gcc -o picam picam.c
